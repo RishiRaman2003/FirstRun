@@ -6,3 +6,5 @@ Oranges
 Cherries
 Pineapple
 cereal
+carrots
+radish
